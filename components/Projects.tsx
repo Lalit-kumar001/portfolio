@@ -12,7 +12,7 @@ const projectsData: Project[] = [
       'Optimized API calls and app performance for fast responses, even with limited network connectivity.',
     ],
     tech: ['React Native', 'Node.js', 'MongoDB', 'Express'],
-    githubUrl: 'https://github.com/Lalit-kumar001',
+    githubUrl: 'https://github.com/Lalit-kumar001/AllergenApp',
   },
   {
     title: 'Connect-L',
@@ -22,7 +22,7 @@ const projectsData: Project[] = [
       'Developed a real-time messaging system with WebSocket to improve engagement.',
     ],
     tech: ['React.js', 'Node.js', 'MongoDB', 'Express', 'WebSocket'],
-    githubUrl: 'https://github.com/Lalit-kumar001',
+    githubUrl: 'https://github.com/Lalit-kumar001/social_app',
   },
   {
     title: 'Typo',
@@ -33,7 +33,7 @@ const projectsData: Project[] = [
     ],
     tech: ['HTML', 'CSS', 'JavaScript'],
     liveUrl: '#', // Placeholder
-    githubUrl: 'https://github.com/Lalit-kumar001',
+    githubUrl: 'https://github.com/Lalit-kumar001/Typing-Game',
   },
 ];
 
